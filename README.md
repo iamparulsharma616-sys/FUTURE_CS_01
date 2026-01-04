@@ -1,5 +1,3 @@
-# FUTURE_CS_01 – Web Application Security Testing
-
 ## Internship
 Cyber Security Internship – Future Interns
 
@@ -16,5 +14,6 @@ This task focuses on identifying security vulnerabilities in a web application, 
 
 ## Status
 In Progress
-
+## Screenshots
+Screenshots of identified vulnerabilities are included in the final security report.
 
